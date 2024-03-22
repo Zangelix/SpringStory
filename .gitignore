@@ -41,3 +41,4 @@ bin/
 wz/
 json/
 json_95/
+src/main/resources/application.properties
